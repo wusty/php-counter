@@ -3,7 +3,7 @@
 ?>
 <html>
 	<body>
-	<p><? include('1.1.php');?></p>
+	<p><? include('counter.php');?></p>
 	
 	
 	</body>
